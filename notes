@@ -1,0 +1,9 @@
+
+STRINGBUFFER:                                        STRINGBUILDER:
+1. Synchronized.                                  1.Not a Synchronized one.
+2.Slower comparatively.                           2.comparatively Faster.
+3.Thread Safe.                                    3.Not thread Safe.
+4.StringBuffer str=new StringBuffer();            4.StringBuilder str=new StringBuilder();       
+
+
+
